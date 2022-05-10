@@ -4,6 +4,7 @@ title = "Het's Terminal"
 theme = "hugo-theme-shell"
 
 [Params]
+    description = "Het's Portfolio"
     [Params.Terminal]
     schema = "ubuntu"
     userName = "Het-Modha"
