@@ -14,14 +14,15 @@ theme = "hugo-theme-shell"
     description = """
     Hi I am Het Modha! Welcome to my terminal portfolio.
     It includes my GitHub, LinkedIn, personal website and twitter handle.
-    Do follow me on these platforms :)
+    Do follow me on these platforms.
     Hope you like your stay, it was nice meeting you!
     """
     [Params.Tree]
     use = true
     files = [
-        ["C/C++", "https://www.example.com/"],
-        ["Python", "https://www.example.com/"],
-        ["Go", "/works/go.md"],
-        ["Hugo", "/works/hugo.md"]
+        ["GitHub", "https://github.com/hdmodha"],
+        ["LinkedIn", "https://www.linkedin.com/in/hdmodha15/"],
+        ["CV", "https://hdmodha.github.io/cv"],
+        ["Website", "https://hdmodha.github.io/portfolio/"],
+        ["Twitter", "https://twitter.com/HdModha"]    
     ]
