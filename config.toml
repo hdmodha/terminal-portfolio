@@ -7,7 +7,7 @@ theme = "hugo-theme-shell"
     [Params.Terminal]
     schema = "ubuntu"
     userName = "Het-Modha"
-    pcName = "macbook-air"
+    pcName = "linux-pc"
     workDir = "mydir"
     profile = "profile.txt"
     [Params.Tree]
