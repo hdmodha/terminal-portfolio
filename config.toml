@@ -10,6 +10,10 @@ theme = "hugo-theme-shell"
     pcName = "linux-pc"
     workDir = "mydir"
     profile = "profile.txt"
+
+    description = """
+    Hi I am Het Modha! Welcome to my terminal portfolio.
+    """
     [Params.Tree]
     use = true
     files = [
