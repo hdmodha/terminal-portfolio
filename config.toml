@@ -1,6 +1,6 @@
 baseURL = "https://hugo-theme-shell.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Het's Terminal"
 theme = "hugo-theme-shell"
 
 [Params]
