@@ -13,6 +13,9 @@ theme = "hugo-theme-shell"
 
     description = """
     Hi I am Het Modha! Welcome to my terminal portfolio.
+    It includes my GitHub, LinkedIn, personal website and twitter handle.
+    Do follow me on these platforms :)
+    Hope you like your stay, it was nice meeting you!
     """
     [Params.Tree]
     use = true
