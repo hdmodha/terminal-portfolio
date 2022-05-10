@@ -6,7 +6,7 @@ theme = "hugo-theme-shell"
 [Params]
     [Params.Terminal]
     schema = "ubuntu"
-
+    userName = "Het-Modha"
     [Params.Tree]
     use = true
     files = [
