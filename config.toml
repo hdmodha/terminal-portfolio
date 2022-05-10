@@ -7,6 +7,9 @@ theme = "hugo-theme-shell"
     [Params.Terminal]
     schema = "ubuntu"
     userName = "Het-Modha"
+    pcName = "macbook-air"
+    workDir = "mydir"
+    profile = "profile.txt"
     [Params.Tree]
     use = true
     files = [
